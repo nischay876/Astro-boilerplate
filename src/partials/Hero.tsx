@@ -10,20 +10,12 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Nischay</GradientText> 👋
+          Hi there, I'm <GradientText>Nischay Sharma</GradientText> 👋
         </>
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
-          </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
-          </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+I am a skilled Full-Stack Web Developer with extensive experience in Linux administration and DevOps practices. I have a strong background in building and maintaining web applications using a variety of technologies, including HTML/CSS, JavaScript, React, Node.js, and SQL databases. Additionally, I possess a deep understanding of Linux systems, including shell scripting, server setup, and maintenance. My expertise in DevOps practices allows me to streamline the software development process, ensuring fast and efficient deployment of web applications. Overall, I am a reliable and adaptable developer who is passionate about creating high-quality, user-friendly web applications.
         </>
       }
       avatar={
